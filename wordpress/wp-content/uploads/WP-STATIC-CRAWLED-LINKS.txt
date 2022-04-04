@@ -1,0 +1,7 @@
+/
+/?elementor_library=accueil
+/?elementor_library=contact
+/?elementor_library=default-kit
+/?elementor_library=footer
+/?elementor_library=footer1-1
+/?elementor_library=header_liste_article
